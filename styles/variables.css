@@ -1,0 +1,38 @@
+:root {
+  /* Colours */
+
+  --clr-primary-300: hsl(158, 36%, 37%);
+  --clr-primary-500: hsl(157, 43%, 18%);
+  --clr-secondary-100: hsl(28, 38%, 92%);
+  --clr-tertiary-700: hsl(212, 21%, 14%);
+  --clr-tertiary-500: hsl(228, 12%, 48%);
+  --clr-tertiary-100: hsl(0, 0%, 100%);
+
+  /* Font families */
+
+  --ff-primary: "Montserrat", sans-serif;
+  --ff-secondary: "Fraunces", sans-serif;
+
+  /* Font sizes */
+
+  --fs-sm: 0.75rem;
+  --fs-md: 0.875rem;
+  --fs-lg: 2rem;
+
+  /* Font weights */
+
+  --fw-reg: 500;
+  --fw-bold: 700;
+
+  /* Gutters */
+
+  --g-xs: 12px;
+  --g-sm: 16px;
+  --g-md: 20px;
+  --g-lg: 24px;
+
+  /* Radii */
+
+  --rad-sm: 8px;
+  --rad-md: 10px;
+}
